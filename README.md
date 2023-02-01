@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/-MariaDB-critical"/></a>
 <img src="https://img.shields.io/badge/AWS-232F3E"/></a>
 
-<img src=""/></a>
+
 
 <!--
 **Dayeon-Hong/Dayeon-Hong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
