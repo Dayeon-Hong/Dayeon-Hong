@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/AWS-232F3E"/></a>
 
 
-![Dayon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dayeon-Hong&count_private=true)
+![Dayon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dayeon-Hong&count_private=true&theme=flag-india&show_icons=true)
 
 
 
