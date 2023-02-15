@@ -12,6 +12,9 @@
 <img src="https://img.shields.io/badge/AWS-232F3E"/></a>
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dayeon-Hong)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **Dayeon-Hong/Dayeon-Hong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
